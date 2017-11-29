@@ -1,0 +1,5 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\Validations\bin\Validations.dll.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\Validations\bin\Validations.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\Validations\bin\Validations.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\Validations\obj\Debug\Validations.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\Validations\obj\Debug\Validations.pdb

@@ -1,0 +1,6 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\WebFormsIntro\bin\WebFormsIntro.dll.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\WebFormsIntro\bin\WebFormsIntro.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\WebFormsIntro\bin\WebFormsIntro.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\WebFormsIntro\obj\Debug\WebFormsIntro.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\WebFormsIntro\obj\Debug\WebFormsIntro.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171129WebFormsIntro\WebFormsIntro\obj\Debug\WebFormsIntro.pdb

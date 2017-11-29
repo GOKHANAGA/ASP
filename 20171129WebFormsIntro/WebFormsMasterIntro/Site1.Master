@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebFormsMasterIntro.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.aspx">Ana Sayfa</a></li>
+            <li><a href="contact.aspx">İletişim</a></li>
+            <li><a href="about.aspx">Hakkımızda</a></li>
+            <li><a href="gallery.aspx">Galeri</a></li>
+        </ul>
+    </nav>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <footer style="text-align:center">© Lab 404</footer>
+</body>
+</html>
